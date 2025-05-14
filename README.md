@@ -24,8 +24,8 @@
 </br>
 12 Write a program to check whether a character is a vowel or consonant.
 </br>
-Write a program to swap two numbers using a temporary variable.
+13 Write a program to swap two numbers using a temporary variable.
 </br>
-Write a program to find the largest of three numbers.
+14 Write a program to find the largest of three numbers.
 </br>
-Write a program to find the GCD of two numbers.
+15 Write a program to find the GCD of two numbers.
